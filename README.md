@@ -16,6 +16,8 @@ npm i svelte-draw-border
 
 ## Usage
 
+Currently the animation is only triggered on hover.
+
 ```svelte
 <script>
   import DrawBorder from 'svelte-draw-border';
