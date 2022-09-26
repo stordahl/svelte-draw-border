@@ -1,5 +1,9 @@
 # svelte-draw-border
 
+<a href="https://www.npmjs.com/package/svelte-draw-border">
+  <img src="https://img.shields.io/npm/dm/svelte-draw-border.svg" alt="Downloads">
+</a>
+
 Draw smooth borders around any element, with Svelte
 
 [Svelte REPL Demo](https://svelte.dev/repl/597674c9f1304368903e032b7a5b84e6?version=3.50.1)
