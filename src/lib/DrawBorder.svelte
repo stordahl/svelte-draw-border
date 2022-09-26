@@ -1,5 +1,4 @@
 <script lang="ts">
-	import { setInterval, clearInterval } from 'node:timers';
 	import { createGradient } from './util/index';
 
 	export let borderRadius = '0px';
