@@ -6,7 +6,7 @@
 
 Draw smooth borders around any element, with Svelte
 
-[Svelte REPL Demo](https://svelte.dev/repl/597674c9f1304368903e032b7a5b84e6?version=3.50.1)
+[Docs/ Demo](https://svelte-draw-border.vercel.app/)
 
 ## Installation
 
