@@ -9,7 +9,8 @@
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
 		"lint": "prettier --plugin-search-dir . --check . && eslint .",
 		"format": "prettier --plugin-search-dir . --write .",
-		"publish": "\"$npm_execpath\" run build && npm publish ./package"
+		"publish": "\"$npm_execpath\" run build && npm publish ./package",
+		"build:docs": "vite build"
 	},
 	"repository": {
 		"type": "git",
