@@ -30,11 +30,11 @@ Currently the animation is only triggered on hover.
 
 ### Props
 
-| Name         | Type   | Default | Description                                  |
-|--------------|--------|---------|----------------------------------------------|
-| borderRadius | string | '0px'   | Works with any valid CSS border-radius value |
-| borderWidth  | string | '2px'   | Use px, ems, or rems                         |
-| initialColor | string | 'white' | Works with any valid CSS color value         |
-| endColor     | string | 'green  | Works with any valid CSS color value         |
-| startingDeg  | number | 90      | The position of the animation start, 0 being the middle & top of the target element |
+| Name         | Type   | Default       | Description                                  |
+|--------------|--------|---------------|----------------------------------------------|
+| borderRadius | string | '0px'         | Works with any valid CSS border-radius value |
+| borderWidth  | string | '2px'         | Use px, ems, or rems                         |
+| initialColor | string | 'transparent' | Works with any valid CSS color value         |
+| endColor     | string | 'green        | Works with any valid CSS color value         |
+| startingDeg  | number | 90            | The position of the animation start, 0 being the middle & top of the target element |
 | direction    | 'clockwise', 'counter-clockwise'| 'clockwise' | The direction of the animation |
