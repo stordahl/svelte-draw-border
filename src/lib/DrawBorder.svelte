@@ -3,7 +3,7 @@
 
 	export let borderRadius = '0px';
 	export let borderWidth = '2px';
-	export let initialColor = 'white';
+	export let initialColor = 'transparent';
 	export let endColor = 'green';
 	export let startingDeg = 90;
 	export let direction: 'clockwise' | 'counter-clockwise' = 'clockwise';

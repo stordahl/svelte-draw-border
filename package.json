@@ -16,6 +16,7 @@
 		"url": "git+https://github.com/stordahl/svelte-draw-border.git"
 	},
 	"devDependencies": {
+		"@acab/reset.css": "^0.4.2",
 		"@playwright/test": "^1.25.0",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
